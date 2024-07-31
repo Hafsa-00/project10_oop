@@ -1,5 +1,5 @@
 {
-  "name": "10_oop_by_Hafsa",
+  "name": "project10_oop_by_hafsa",
   "version": "1.0.0",
   "description": "this 10 project of node projects of typescript",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hafsa",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^9.3.6"
   },
